@@ -17,4 +17,5 @@ ENV/
 .idea/*
 
 # Project
+/src/keys.py
 log.txt
